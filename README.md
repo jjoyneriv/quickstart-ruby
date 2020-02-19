@@ -1,2 +1,3 @@
 # quickstart-ruby
-OpenSource Scewdriver Ruby Project
+
+A sample Ruby Gem library for Screwdriver
