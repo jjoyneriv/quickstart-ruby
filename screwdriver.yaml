@@ -34,4 +34,10 @@ jobs:
       # The next step is "rake". It runs the default rake task defined in your
       # Rakefile
       - rake: bundle exec rake
+      #
+      # 
+      - showhost: hostname
+      #
+      #
+      - showsystem: uname -a
 
